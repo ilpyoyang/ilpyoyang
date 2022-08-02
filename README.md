@@ -14,7 +14,7 @@ const ilpyo = {
     callMe: "Ilpyo" | "Vicky" | "Victoria",
     interests: ["Backend", "JPA", "Metaverse", "Book", "Art", "Dessert"],
     technologies: {
-        backEnd: ["Java", "Phython", "Spring", "Gradle", "JPA", "Junit5"],
+        backEnd: ["Java", "Python", "Spring", "Gradle", "JPA", "Junit5"],
         database: ["MariaDB", "MS SQL Server", "MySQL", "Oracle"],
         devops: ["AWS(EC2, Route53, ELB, ACM, RDS)"],
         frontEnd: ["JavaScript", "JQuery", "CSS3", "HTML"],
