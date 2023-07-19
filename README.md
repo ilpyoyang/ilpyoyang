@@ -11,7 +11,7 @@
 
 ```js
 const ilpyo = {
-    callMe: "Ilpyo" | "Vicky" | "Victoria",
+    callMe: "Ilpyo" | "Rosie",
     interests: ["Backend", "JPA", "Metaverse", "Book", "Art", "Dessert"],
     technologies: {
         backEnd: ["Java", "Python", "Spring", "Gradle", "JPA", "Junit5"],
