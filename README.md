@@ -15,8 +15,8 @@ const ilpyo = {
     interests: ["Backend", "JPA", "Metaverse", "Book", "Art", "Dessert"],
     technologies: {
         backEnd: ["Java", "Python", "Spring", "Gradle", "JPA", "Junit5"],
-        database: ["MariaDB", "MS SQL Server", "MySQL", "Oracle"],
-        devops: ["AWS(EC2, Route53, ELB, ACM, RDS)"],
+        database: ["MariaDB", "MS SQL Server", "MySQL", "Postgres", "Redis", "Oracle"],
+        devops: ["AWS(EC2, Route53, ELB, ACM, RDS, S3)", "Github Action", "Docker"],
         frontEnd: ["JavaScript", "JQuery", "CSS3", "HTML"],
         others: ["Git", "GitHub", "GitLab", "Jira","IntelliJ", "VS Code", "Eclipse", "Linux", "Ubuntu"]
     }
