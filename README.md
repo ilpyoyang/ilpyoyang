@@ -30,11 +30,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-<h4>My most recent articles</h3>
-<ul>
-  <li><a></a></li>
-</ul>
-
 
 <h4>My GitHub contributions summary</h3>
 
