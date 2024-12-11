@@ -29,8 +29,3 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-
-
-<h4>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ilpyoyang&hide_border=true&locale=ko)](https://git.io/streak-stats)
